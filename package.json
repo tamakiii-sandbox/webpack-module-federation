@@ -1,0 +1,7 @@
+{
+  "name": "webpack-module-federation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamakiii-sandbox/webpack-module-federation.git",
+  "license": "MIT"
+}
